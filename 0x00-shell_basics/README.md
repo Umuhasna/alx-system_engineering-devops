@@ -9,4 +9,5 @@ A script that displays current directory contents
 -with user and group IDs displayed numerically
 -And hidden files (starting with .)
 Move the file
-Delete the file 
+Delete the file
+Delete the directory 
