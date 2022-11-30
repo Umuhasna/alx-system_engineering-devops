@@ -12,4 +12,5 @@ Move the file
 Delete the file
 Delete the directory
 script that changes the working directory to the previous one
-Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long formatWrite a script that prints the type of the file named iamafile 
+Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long formatWrite a script that prints the type of the file named iamafile
+Create a symbolic link 
