@@ -10,4 +10,5 @@ A script that displays current directory contents
 -And hidden files (starting with .)
 Move the file
 Delete the file
-Delete the directory 
+Delete the directory
+script that changes the working directory to the previous one 
