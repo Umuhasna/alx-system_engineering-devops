@@ -8,3 +8,4 @@ script that adds execute permission to the owner and the group owner, and read p
 script that adds execution permission to the owner, the group owner and the other users, to the file
 script that sets the permission to the file
 script that sets the mode of the file
+script that sets the mode of the file
