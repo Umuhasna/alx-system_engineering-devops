@@ -18,4 +18,5 @@ Create a script that copies all the HTML files from the current working director
 Create a script that moves all files beginning with an uppercase letter
 Create a script that deletes all files in the current working directory that end with the character ~
 Create a script that creates the directories
-separated by commas 
+separated by commas
+Create a magic file school.mgc that can be used with the comman 
