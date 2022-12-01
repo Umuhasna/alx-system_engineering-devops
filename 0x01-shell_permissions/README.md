@@ -9,3 +9,4 @@ script that adds execution permission to the owner, the group owner and the othe
 script that sets the permission to the file
 script that sets the mode of the file
 script that sets the mode of the file
+script that creates a directory called my_dir with permissions 751 in the working directory
