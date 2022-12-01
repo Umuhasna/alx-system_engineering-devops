@@ -10,3 +10,4 @@ script that sets the permission to the file
 script that sets the mode of the file
 script that sets the mode of the file
 script that creates a directory called my_dir with permissions 751 in the working directory
+script that changes the group owner to school for the file hello
