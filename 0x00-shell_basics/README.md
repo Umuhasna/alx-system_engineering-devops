@@ -16,4 +16,5 @@ Write a script that lists all files (even ones with names beginning with a perio
 Create a symbolic link
 Create a script that copies all the HTML files from the current working directory to the parent of the working directory,
 Create a script that moves all files beginning with an uppercase letter
-Create a script that deletes all files in the current working directory that end with the character ~ 
+Create a script that deletes all files in the current working directory that end with the character ~
+Create a script that creates the directories 
