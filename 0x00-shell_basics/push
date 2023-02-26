@@ -1,5 +1,5 @@
 #!/bin/bash
 git add .
 read msg
-git commit -m "$msg"
+git commit -m "$program that list the leap year in 100 years"
 git push
