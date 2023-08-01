@@ -1,6 +1,0 @@
-#!/bin/bash
-read -p "Add file name: " file
-git add "$file"
-read -p "Enter  your commit message: " msg
-git commit -m "$msg"
-git push
